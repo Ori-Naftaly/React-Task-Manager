@@ -5,7 +5,7 @@ A simple Task Manager App that saves your tasks to the browser's local storage.
 I wanted to add an option to edit the tasks, because as we all know, sometimes a task needs to be modified.
 
 ## Project Screen Shot
-![alt text](http://url/to/img.png)https://i.ibb.co/ZJMrmyV/task-manager.png)
+![alt text](https://i.ibb.co/ZJMrmyV/task-manager.png)
 
 ## Installation and Setup Instructions
 Clone down this repository. You will need node and npm installed globally on your machine.
