@@ -1,7 +1,8 @@
 ## Project Name
-Quizz Challenge
+Task-Manager App
 
-A fun Quizz application with 5 different random questions that keeps track of your score.
+A simple Task Manager App that saves your tasks to the browser's local storage.
+I wanted to add an option to edit the tasks, because as we all know, sometimes a task needs to be modified.
 
 ## Project Screen Shot
 ![alt text](http://url/to/img.png)https://i.ibb.co/ZJMrmyV/task-manager.png)
