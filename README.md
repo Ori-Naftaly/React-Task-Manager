@@ -1,5 +1,4 @@
-## Project Name
-Task-Manager App
+## Task-Manager App
 
 A simple Task Manager App that saves your tasks to the browser's local storage.
 I wanted to add an option to edit the tasks, because as we all know, sometimes a task needs to be modified.
